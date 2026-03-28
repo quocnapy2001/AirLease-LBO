@@ -1,4 +1,5 @@
 ## Motivation:
+To develop a practical understanding of leveraged buyout (LBO) modelling by applying it in a realistic transaction setting.
 
 ## Context:
 Air Lease Corporation (NYSE: AL) has entered a definitive agreement to be acquired by a consortium led by Sumitomo Corporation and SMBC Aviation Capital for approximately $7.4 billion in cash ($65 per share), or $28.2 billion including debt. Expected to close in the first half of 2026, the deal will combine ALC with SMBC Aviation Capital to form a major global lessor, likely to be renamed Sumisho Air Lease and based in Dublin. 

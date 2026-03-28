@@ -13,6 +13,13 @@ Air Lease Corporation (NYSE: AL) has entered a definitive agreement to be acquir
 
 Air Lease stockholders will receive $65 in cash per share, and the company’s chairman, Steven Udvar-Hazy, expressed support for the deal as a major industry transition. 
 
+## Key Notes: 
+- Air Lease is an aircraft leasing company so the business is highly asset-intensive and capital-heavy with majority of assets consist of flight equipment under operating leases and revenue is driven by long-term lease contracts with airline. Although cash flows are relatively stable, it depend on airline demand and utilisation rates => focus on asset growth, lease yields and utilisation.
+- There is already a sginigicant amount of debt used to finance aircraft purchases. This debt is secured against aircraft assets and part of core operation model, so this debt should be treated as operating debt => pay attention to the limit and ability to add additional LBO debt (start with a small incremental).
+- Free Cash Flow for debt repayment is lower and more volatile than standard corporate given the fact that there is a significant capital expenditures required to acquire aircraft and the timing of cash flows depends on delivery schedules.
+- Air Lease has high interest rate sensitivity given high operating debt => sensitivity analysis for interest rate or impact analysis for debt servicing and IRR.
+
+
 ## References:
 [Air Lease's Press Release 02/09/2025](https://www.airleasecorp.com/press/air-lease-corporation-enters-into-merger-agreement-with-sumitomo-corporation-smbc-aviation-capital-apollo-and-brookfield)
 

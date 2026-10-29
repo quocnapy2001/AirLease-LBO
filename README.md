@@ -18,4 +18,5 @@ Air Lease stockholders will receive $65 in cash per share, and the company’s c
 - Free Cash Flow for debt repayment is lower and more volatile than standard corporate given the fact that there is a significant capital expenditures required to acquire aircraft and the timing of cash flows depends on delivery schedules.
 - Air Lease has high interest rate sensitivity given high operating debt => sensitivity analysis for interest rate or impact analysis for debt servicing and IRR.
 
-
+## References:
+- [Air Lease Corporation Form 10-K Dec 2025]([url](https://www.bamsec.com/filing/162828026007707/1?cik=1487712))

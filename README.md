@@ -19,6 +19,6 @@ Air Lease stockholders will receive $65 in cash per share, and the company’s c
 - Air Lease has high interest rate sensitivity given high operating debt => sensitivity analysis for interest rate or impact analysis for debt servicing and IRR.
 
 ## References:
-- Air Lease Corporation Form 10-K, December 2025
-- Air Lease definitive proxy statement (DEFM14A), November 4 2025[Link](https://www.sec.gov/Archives/edgar/data/1487712/000119312525264858/d28474ddefm14a.htm)
-- Air Lease 8-K with supplemental disclosures and projections, November 28 2025
+- [Air Lease Corporation Form 10-K, December 2025](https://www.bamsec.com/filing/162828026007707/1?cik=1487712)
+- [Air Lease definitive proxy statement (DEFM14A), November 4 2025](https://www.sec.gov/Archives/edgar/data/1487712/000119312525264858/d28474ddefm14a.htm)
+- [Air Lease 8-K with supplemental disclosures and projections, November 28 2025](https://www.sec.gov/Archives/edgar/data/1487712/000119312525302418/d937491d8k.htm)
